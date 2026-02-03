@@ -1,0 +1,6 @@
+pandas
+ipydatagrid
+scikit-learn
+scipy
+matplotlib
+nltk
